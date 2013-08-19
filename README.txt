@@ -6,6 +6,7 @@ what a noob
 Class for DLL injection and demo
 
 CInjectDLL, a class for DLL injection
+using remote thread
 DllInject/InjectDLL.h
 DllInject/InjectDLL.cpp
 
