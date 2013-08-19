@@ -6,6 +6,7 @@ what a noob
 
 Class for DLL injection and demo
 
+
 Class CInjectDll
-InjectDll.h
-InjectDll.cpp
+DllInject/InjectDLL.h
+DllInject/InjectDLL.cpp
